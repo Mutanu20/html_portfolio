@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Portfolio</title>
+    </head>
+    <body>
+        <h1>Naviagtion Menu</h1>
+
+        <nav>
+
+            <li><a href="Index.html"></a>Home</li>
+            <li><a href="about.html"></a>About</li>
+            <li><a href="Projects.html"></a> Projects</li>
+            <li><a href="Contacts.html"></a>Contacts</li>
+    
+        </nav>
+        <div>
+        <h1> Home</h1>
+        <p>Welcome to our website and interact with what we have for you</p>
+        </div>
+<div>
+        <h1> About</h1>
+        <p> Learn More about our company and our involvement in promoting native language and Cultures</p>
+</div>
+<div>
+        <h1> Projects</h1>
+        <ul>
+            <li>Native language sensitization</li>
+            <li>Organize a cultural festival</li>
+            <li>Create platforms for the sale of cultural artefacts both localy and internaionaly </li>
+        </ul>
+    </div>
+    <div>
+        <h1>Contacts</h1>
+        <p>Reach us through </p>
+        <ul>
+        
+            <li>facebook </li>
+            <li>twitter</li>
+            <li>instagram</li>
+        </ul>
+        
+    </div>
+    </body>
+</html>
